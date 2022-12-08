@@ -1,5 +1,5 @@
 ## Bengkol Indonesia
-![bengkol](https://github.com/bengkol-id/.github/blob/main/profile/cover2.png)
+![bengkol](https://github.com/bengkol-id/.github/blob/main/profile/banner.png)
 
 <!--
 
